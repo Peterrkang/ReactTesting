@@ -4,8 +4,6 @@ import App from '../../src/components/app';
 
 describe('App', ()=> {
 
-
-
   it('shows the correct text', ()=> {
 
     const component = renderComponent(App);
